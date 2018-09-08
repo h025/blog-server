@@ -5,4 +5,4 @@ app.use(async (ctx, next) => {
   ctx.response.body = 'Hello koa';
 });
 
-app.listen(3000);
+app.listen(80);
