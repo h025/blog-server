@@ -80,8 +80,6 @@ $RECYCLE.BIN
 .git
 
 # npm/yarn
-package-lock.json
-yarn.lock
 *.log
 
 # node
