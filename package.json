@@ -4,7 +4,7 @@
   "description": "个人博客-服务端",
   "main": "index.js",
   "repository": "git@github.com:h025/blog-server.git",
-  "author": "Sammer <h025@vip.qq.com>",
+  "author": "Summer <h025@vip.qq.com>",
   "license": "MIT",
   "scripts": {
     "start": "node ./index.js"
